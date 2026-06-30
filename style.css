@@ -226,7 +226,7 @@ body {
 
 .second-highlight-wrapper {
 
-	background-image: url("../appleClone/images/home/iphone11-pro-bg.jpg");
+	background-image: url("/images/home/iphone11-pro-bg.jpg");
 
 	height:580px;
 
@@ -279,7 +279,7 @@ body {
 
 .third-highlight-wrapper {
 
-	background-image: url("../appleClone/images/home/iphone11-bg.jpg");
+	background-image: url("/images/home/iphone11-bg.jpg");
 
 	height: 580px;
 
