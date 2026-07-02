@@ -373,22 +373,4 @@ body {
 
 }
 
-
-
-/* six left start here */
-
-/*Sixth Highlight Section */
-.sixth-heghlight-wrapper {
-	display: flex;
-  -webkit-box-pack: justify;
-  justify-content: space-between;
-  background: #fff;
-}
-.sixth-heghlight-wrapper .left-side-wrapper {
-	background-image:  url("../images/home/macbook-pro.jpg"); 
-	background-size: initial;
-	background-color: #fafafa;
-	background-position: bottom;
-}
-/* six left end here */
 /* end here */
