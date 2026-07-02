@@ -226,7 +226,7 @@ body {
 
 .second-highlight-wrapper {
 
-	background-image: url("/images/home/iphone11-pro-bg.jpg");
+	background-image: url("images/home/iphone11-pro-bg.jpg");
 
 	height:580px;
 
@@ -279,7 +279,7 @@ body {
 
 .third-highlight-wrapper {
 
-	background-image: url("/images/home/iphone11-bg.jpg");
+	background-image: url("images/home/iphone11-bg.jpg");
 
 	height: 580px;
 
@@ -339,7 +339,7 @@ body {
 
 .left-side-wrapper {
 
-	background-image: url("../appleClone/images/home/watch-series-5.jpg");
+	background-image: url("images/home/watch-series-5.jpg");
 
 }
 
@@ -350,9 +350,7 @@ body {
 
 .right-side-wrapper {
 
-	background-image: url("../images/home/apple-card.jpg");
-	background-image: url("../appleClone/images/home/apple-card.jpg");
-
+	background-image: url("images/home/apple-card.jpg");
 }
 
 
