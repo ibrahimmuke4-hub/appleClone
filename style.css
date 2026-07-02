@@ -374,3 +374,30 @@ body {
 }
 
 /* end here */
+
+
+
+/* six start here */
+.sixth-heghlight-wrapper {
+    display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  background: #fff;
+}
+.sixth-heghlight-wrapper .left-side-wrapper {
+    background-image:  url("images/home/macbook-pro.jpg"); 
+    background-size: initial;
+    background-color: #fafafa;
+    background-position: bottom;
+}
+
+/* six right side start here */
+
+/* six right side end here */
+
+.product-title-small {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+/* six end here */
